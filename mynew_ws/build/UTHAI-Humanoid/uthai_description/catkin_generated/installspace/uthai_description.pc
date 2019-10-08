@@ -1,0 +1,8 @@
+prefix=/home/shary/uthai_ws/install
+
+Name: uthai_description
+Description: Description of uthai_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shary/uthai_ws/install/lib 
+Requires: 

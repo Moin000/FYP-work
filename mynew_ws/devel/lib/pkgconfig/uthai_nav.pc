@@ -1,0 +1,8 @@
+prefix=/home/shary/uthai_ws/devel
+
+Name: uthai_nav
+Description: Description of uthai_nav
+Version: 0.0.0
+Cflags: -I/home/shary/uthai_ws/devel/include
+Libs: -L/home/shary/uthai_ws/devel/lib -lpath_planning
+Requires: nav_msgs rospy std_msgs

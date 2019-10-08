@@ -1,0 +1,8 @@
+prefix=/home/shary/uthai_ws/devel
+
+Name: uthai_kdl
+Description: Description of uthai_kdl
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shary/uthai_ws/devel/lib 
+Requires: 
